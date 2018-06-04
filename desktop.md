@@ -1,4 +1,4 @@
-#   truelaunchbar
+#   desktop manager
 
 ##  先放图
 <img src="img/1.jpg">
